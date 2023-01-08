@@ -1,4 +1,4 @@
-mars.txt
+mars.txt - Modification to first line of mars.txt
 Example text here, e.g. "cold and dry but everything is my favorite color - Dracula"
 The two moons may be a problem for Wolfman.
 Modifying mars.txt for GitHub collaboration test.
