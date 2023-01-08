@@ -1,1 +1,2 @@
 Some text here about the planet Jupiter
+Further text about the planet Jupiter (second line)
