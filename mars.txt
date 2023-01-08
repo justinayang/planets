@@ -1,2 +1,5 @@
 mars.txt
-Example text here, e.g. "cold and dry but everything is my favorite color"
+Example text here, e.g. "cold and dry but everything is my favorite color - Dracula"
+The two moons may be a problem for Wolfman.
+
+
